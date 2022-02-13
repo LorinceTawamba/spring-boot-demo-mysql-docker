@@ -1,8 +1,8 @@
+server:
+  port: 8081
 spring:
   application:
     name: SPRING-BOOT-DEMO-MYSQL-DOCKER
-  server:
-    port: 8081
   datasource:
     url: jdbc:mysql://localhost:3306/spring_boot_demo_mysql_docker?serverTimezone=Africa/Douala&zeroDateTimeBehavior=convertToNull&createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
     username: root
