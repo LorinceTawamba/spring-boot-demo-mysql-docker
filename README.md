@@ -13,7 +13,7 @@ The Spring Boot Demo application using Mysql and Docker
 
 - **Dernière version stable :** 1.0.0
 - **Dernière version :** 1.0.0
-The list of versions : [Click to display](https://github.com/LorinceTawamba/spring-boot-demo-mysql-docker/tags) 
+- The list of versions : [Click to display](https://github.com/LorinceTawamba/spring-boot-demo-mysql-docker/tags) 
 
 ## About this Service
 
